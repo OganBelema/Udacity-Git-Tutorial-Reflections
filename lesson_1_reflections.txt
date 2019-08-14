@@ -19,4 +19,4 @@ How might using version control make you more confident to make changes that cou
 Thanks to version control you added test out expiremental features knowing that you can always revert to your stable version that has been committed.
 
 Now that you have your workspace set up, what do you want to try using Git for?
-Manage versions of my android projects
+Manage versions of my android projects.
